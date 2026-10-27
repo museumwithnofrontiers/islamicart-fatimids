@@ -1,4 +1,141 @@
 {
-  "about": "TODO(dataset): written by inventory-app's scripts/minisites/legacy-minisite.mjs, with every picture of the frame taken from the legacy exhibition.",
-  "files": {}
+  "about": "The frame this website takes from legacy Discover Islamic Art's virtual exhibition The Fatimids (exhibitions/ISL/fatimids/), each file as legacy serves it, byte for byte; the curators' logos come from the exhibitions' shared sponsor_logo folder. tests/assets.test.js checks every file against its hash. Legacy drew no Swedish map (map_se.jpg): the map window shows none in Swedish.",
+  "files": {
+    "theme/assets/legacy/arrow_inner_black.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/arrow_inner_black.gif",
+      "sha256": "a969e5e62fe3c75dcb4e05ef1ca4e38f67a528916db802c229511b44567bd87a"
+    },
+    "theme/assets/legacy/bg_fading_left.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/bg_fading_left.gif",
+      "sha256": "ba810956982d901f398b5ccaa7bc3ce3f4667d846f7e80b294814e61ec112554"
+    },
+    "theme/assets/legacy/bg_fading_right.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/bg_fading_right.gif",
+      "sha256": "532bb44171abde259486461f846e8688a4175ccf5b29fa30b28adddd32bbbda3"
+    },
+    "theme/assets/legacy/ET-16.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/ET-16.gif",
+      "sha256": "ebf74c4ad5c7bba4c9c918644abfc3fbbfa18d4515e7966f70639b76dd04e2ef"
+    },
+    "theme/assets/legacy/exhibition_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/exhibition_bg_ar.jpg",
+      "sha256": "1b6bb6f121dbc8b0c198132a28db69de096b8fa78d1b40a89309563a2e002004"
+    },
+    "theme/assets/legacy/exhibition_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/exhibition_bg.jpg",
+      "sha256": "d67143dccdcf5a849417a44783031c9cf5d2bed58b4d3cba867ef2d66975cd65"
+    },
+    "theme/assets/legacy/GL_16.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/GL_16.gif",
+      "sha256": "27b6baf4d5a531cddff1763d41aecb6f4b4a922ce0e6358697c5dde146113e67"
+    },
+    "theme/assets/legacy/home_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/home_bg_ar.jpg",
+      "sha256": "65d2d91f88d082911018d3fbad812b717488557339840925aa392f97e9613b32"
+    },
+    "theme/assets/legacy/home_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/home_bg.jpg",
+      "sha256": "5d3ef370ea68cb639bbc15814e36fdea8c15c0768f69e40e4d15dd64712318d2"
+    },
+    "theme/assets/legacy/ico_item_selected.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/ico_item_selected.gif",
+      "sha256": "8e4e35eebb1dda3a1495a2dc7a9d1a4611d9118f3f683a269823da701989feb5"
+    },
+    "theme/assets/legacy/ico_item.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/ico_item.gif",
+      "sha256": "0b630172707e2ed687751dd70acb096ef905a3ee56421c650c227520e10030c8"
+    },
+    "theme/assets/legacy/intro_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/intro_bg_ar.jpg",
+      "sha256": "eab300bffa14f4789ca49fbb95e6df75fc0632e3311c0b14114424c93b1449cc"
+    },
+    "theme/assets/legacy/intro_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/intro_bg.jpg",
+      "sha256": "068319b8c6af35e7e98c0cbe7ebd022711a0538869773f49b678a53dc887547d"
+    },
+    "theme/assets/legacy/intro_map_thumb.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/intro_map_thumb.jpg",
+      "sha256": "2f5f7565a7925715216fe08782acc32e81ff534a462772f7bbf4678a8282a02c"
+    },
+    "theme/assets/legacy/logo_ar.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/logo_ar.gif",
+      "sha256": "390d55f774a7cfeeddfde07133c868643d6022cd7c180e66fd54821974510bdf"
+    },
+    "theme/assets/legacy/logo_de.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/logo_de.gif",
+      "sha256": "984726270b1b039279f70303dacaffe5130c47c1dd7950287a6dd02b81e52616"
+    },
+    "theme/assets/legacy/logo_en.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/logo_en.gif",
+      "sha256": "57be96ea001b0ae1448fb31cb81ce78d1339f2c427c15bb9cccd7af9fe294055"
+    },
+    "theme/assets/legacy/logo_es.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/logo_es.gif",
+      "sha256": "cebc60884416a0eb6c8f9cd8b3d90f2bf7d94a3c86c87c746c439d692ee0c08b"
+    },
+    "theme/assets/legacy/logo_fr.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/logo_fr.gif",
+      "sha256": "e0ddf333b78887d73a806ae7cfd59f5b82a18cd011366ad327df6dd42a7fc790"
+    },
+    "theme/assets/legacy/logo_it.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/logo_it.gif",
+      "sha256": "3ea1be1fdbe1df3781954af1a1f2b5a51a2e73362005c6f9ff1dcaed406d3415"
+    },
+    "theme/assets/legacy/logo_pt.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/logo_pt.gif",
+      "sha256": "d9a01fa90f635d82569fec07dbb9a21f986db3ca2a7b828cc206130be75acba6"
+    },
+    "theme/assets/legacy/logo_se.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/logo_se.gif",
+      "sha256": "b7f99b6269e5682d8554c42f78410fc95c146a60c79d3ce55d55426c880b717e"
+    },
+    "theme/assets/legacy/logo_tr.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/logo_tr.gif",
+      "sha256": "ba4d27de7c136a6d54aeb0dcc0b70372edd636641128607db6bd58532e0e2517"
+    },
+    "theme/assets/legacy/map_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/map_ar.jpg",
+      "sha256": "21213a80f574cefcf9237074aa31f7818d2793556b25f267bf0fa3b3cee2548a"
+    },
+    "theme/assets/legacy/map_de.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/map_de.jpg",
+      "sha256": "da86488048ddba80fedf8dd35df80dc50705703fa3dd00cad8b06659d070962e"
+    },
+    "theme/assets/legacy/map_en.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/map_en.jpg",
+      "sha256": "fd0399f0734f7fe4ca910e2197e3f8b9918f62eb3f7232ee30caa87fdb96a350"
+    },
+    "theme/assets/legacy/map_es.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/map_es.jpg",
+      "sha256": "ec629e8e85d70c125fea284736fe53f85afeeff337e06784a853b46bcc276a2c"
+    },
+    "theme/assets/legacy/map_fr.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/map_fr.jpg",
+      "sha256": "df50c31cc79e0dde5b8ffd8fd11bee8369f504311b15822ab1b632e86546472b"
+    },
+    "theme/assets/legacy/map_it.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/map_it.jpg",
+      "sha256": "ce781b5b4da9357ed9e76bea338543aa9b6896e30b37d961357236886210c503"
+    },
+    "theme/assets/legacy/map_pt.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/map_pt.jpg",
+      "sha256": "2944df0f0c72da4c829f71261db73d948538ecea499629bfc42be8a3fcd11029"
+    },
+    "theme/assets/legacy/map_tr.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/map_tr.jpg",
+      "sha256": "bb8596c669ac5f95320287cbfb76487f736b9ac6bb9a5762bf62035fea5831c7"
+    },
+    "theme/assets/legacy/NMS-16.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/NMS-16.gif",
+      "sha256": "9a61c05fef9099a08c37c69c406779f020c2edec41fe80ae87c8feaca5dc5b4f"
+    },
+    "theme/assets/legacy/print_dark.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/fatimids/images/print_dark.gif",
+      "sha256": "49894d52c06b6f8e1c29b0b3f82245bcd3f439108e4cd3a7c4f16360ed896742"
+    },
+    "theme/assets/legacy/TN-16.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/TN-16.gif",
+      "sha256": "740079620508be9700f76fe60f76788ea2c518c17a53515b5d6d3e0c138ce4a7"
+    }
+  }
 }
