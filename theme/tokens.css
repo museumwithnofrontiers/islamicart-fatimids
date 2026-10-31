@@ -27,6 +27,7 @@
   --minisite-menu-link: #CEB593;
   --minisite-strip: #967850;
   --minisite-footer: #644a27;
+  --minisite-footer-height: 18px;
   --minisite-footer-text: #CEB593;
   --minisite-footer-font: Normal 9px verdana, arial , helvetica;
   --minisite-footer-link: #CEB593;
@@ -68,7 +69,12 @@
   --minisite-partners-line-margin-bottom: 16px;
   --minisite-partners-line-font: Normal 9px verdana, arial , helvetica;
   --minisite-partners-link: #ffffff;
+  --minisite-partners-color: #e2c499;
+  --minisite-partners-width: 100%;
+  --minisite-partners-padding: 10px 0;
+  --minisite-partners-line-color: #fff;
   --minisite-intro-paper: #fcfcf2;
+  --minisite-intro-padding-top: 200px;
   --minisite-intro-title-left: 135px;
   --minisite-intro-title-top: 110px;
   --minisite-intro-title-font: normal 40px Georgia, "Times New Roman", Times, serif;
